@@ -44,14 +44,14 @@ python unhide_file.py
 ##  Screenshots
 
 ### File Selection
-![File Dialog](screenshot/hide.png)
+![File Dialog](screenshots/hide.png)
 
 ### Hide Output
-![Hide Output](screenshot/folder_after_hide.png)
+![Hide Output](screenshots/folder_after_hide.png)
 
 ### Unhide Output
-![Unhide Output](screenshot/unhide.png)
+![Unhide Output](screenshots/unhide.png)
 
 ### Before / After
-![Before](screenshot/initial.png)
-![After](screenshot/folder_after_hide.png)
+![Before](screenshots/initial.png)
+![After](screenshots/folder_after_hide.png)
