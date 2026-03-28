@@ -49,8 +49,11 @@ python unhide_file.py
 ### Hide Output
 ![Hide Output](screenshots/folder_after_hide.png)
 
-### Unhide Output
+### Unhide folder selection
 ![Unhide Output](screenshots/unhide.png)
+
+### Unhide file selection
+![Unhide Output](screenshots/unhide2.png)
 
 ### Before / After
 ![Before](screenshots/initial.png)
