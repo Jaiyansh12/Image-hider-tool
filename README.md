@@ -40,3 +40,18 @@ python unhide_file.py
 * GUI-based interface
 * Multiple file selection
 * Recursive folder scanning
+
+##  Screenshots
+
+### File Selection
+![File Dialog](hide.png)
+
+### Hide Output
+![Hide Output](folder_after_hide.png)
+
+### Unhide Output
+![Unhide Output](unhide.png)
+
+### Before / After
+![Before](initial.png)
+![After](folder_after_hide.png)
